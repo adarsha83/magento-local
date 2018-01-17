@@ -1,0 +1,375 @@
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:24:58+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:03+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:25:07+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:47:09+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T06:54:00+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:30:17+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:19+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:27+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:31:29+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:32:51+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:09+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:35:52+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:38:36+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:39:59+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:42:42+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T07:44:12+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:32:57+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:33:49+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:35:46+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:36:49+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:37:01+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T08:40:47+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:23:28+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:33:14+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 10: parser error : StartTag: invalid element name  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string(): 			 ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 16: parser error : Opening and ending tag mismatch: routers line 9 and unparseable  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string(): 			&lt;/&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string(): 			   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 17: parser error : Opening and ending tag mismatch: admin line 8 and routers  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string():         &lt;/routers&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string():                   ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 18: parser error : Opening and ending tag mismatch: config line 2 and admin  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/admin&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string():             ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Extra content at the end of the document  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string():     &lt;adminhtml&gt;  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510
+2018-01-17T10:35:35+00:00 ERR (3): Warning: simplexml_load_string():     ^  in /Library/WebServer/Documents/magento/lib/Varien/Simplexml/Config.php on line 510

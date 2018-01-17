@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <forum_adminhtml_forum_index>
+        <reference name="content">
+            <block type="forum/adminhtml_forum" name="forum" />
+        </reference>
+    </forum_adminhtml_forum_index>
+</layout>

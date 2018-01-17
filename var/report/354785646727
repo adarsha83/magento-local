@@ -1,0 +1,9 @@
+a:5:{i:0;s:208:"Error in file: "/Library/WebServer/Documents/magento/app/code/local/Dyna/Forum/sql/forum_setup/mysql4-install-0.1.0.php" - SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'forum' already exists";i:1;s:1044:"#0 /Library/WebServer/Documents/magento/app/code/core/Mage/Core/Model/Resource/Setup.php(644): Mage::exception('Mage_Core', 'Error in file: ...')
+#1 /Library/WebServer/Documents/magento/app/code/core/Mage/Core/Model/Resource/Setup.php(421): Mage_Core_Model_Resource_Setup->_modifyResourceDb('install', '', '0.1.0')
+#2 /Library/WebServer/Documents/magento/app/code/core/Mage/Core/Model/Resource/Setup.php(327): Mage_Core_Model_Resource_Setup->_installResourceDb('0.1.0')
+#3 /Library/WebServer/Documents/magento/app/code/core/Mage/Core/Model/Resource/Setup.php(235): Mage_Core_Model_Resource_Setup->applyUpdates()
+#4 /Library/WebServer/Documents/magento/app/code/core/Mage/Core/Model/App.php(428): Mage_Core_Model_Resource_Setup::applyAllUpdates()
+#5 /Library/WebServer/Documents/magento/app/code/core/Mage/Core/Model/App.php(354): Mage_Core_Model_App->_initModules()
+#6 /Library/WebServer/Documents/magento/app/Mage.php(683): Mage_Core_Model_App->run(Array)
+#7 /Library/WebServer/Documents/magento/index.php(83): Mage::run('', 'store')
+#8 {main}";s:3:"url";s:74:"/magento/index.php/admin/cache/index/key/f6dbf36214cad3e192157ac06913ca44/";s:11:"script_name";s:18:"/magento/index.php";s:4:"skin";s:7:"default";}

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Dyna_Forum>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Dyna_Forum>
+    </modules>
+</config> 

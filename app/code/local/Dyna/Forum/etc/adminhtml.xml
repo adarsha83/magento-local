@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<config>
+    <menu>
+        <forum module="forum" translate="title">
+            <title>Forum</title>
+            <sort_order>85</sort_order>
+            <children>
+                <forum module="forum" translate="title">
+                    <title>Manage Items</title>
+                    <sort_order>0</sort_order>
+                    <action>
+                        forum/adminhtml_forum
+                    </action>
+                </forum>
+                <settings module="forum" translate="title">
+                    <title>Settings</title>
+                    <sort_order>1000</sort_order>
+                    <action>adminhtml/system_config/edit/section/forum</action>
+                </settings>
+            </children>
+        </forum>
+    </menu>
+    <acl>
+        <resources>
+            <all>
+                <title>Allow Everything</title>
+            </all>
+            <admin>
+                <children>
+                    <system>
+                        <children>
+                            <config>
+                                <children>
+                                    <forum module="forum" translate="title">>
+                                    	<title>Forum</title>
+                                        <sort_order>85</sort_order>
+                                    </forum>
+                                </children>
+                            </config>
+                        </children>
+                    </system>
+                    <forum module="forum" translate="title">
+                        <title>Forum</title>
+                        <sort_order>85</sort_order>
+                        <children>
+                            <forum module="forum" translate="title">
+                                <title>Manage Items</title>
+                                <sort_order>0</sort_order>
+                            </forum>
+                            <settings module="forum" translate="title">
+                                <title>Settings</title>
+                                <sort_order>1000</sort_order>
+                            </settings>
+                        </children>
+                    </forum>
+                </children>
+            </admin>
+        </resources>
+    </acl>
+</config>
